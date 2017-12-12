@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: be20daf7965fe21438824e8c09b14296
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - customSkin: {fileID: 11400000, guid: 7953503d9e83f8d469b84619849edd4e, type: 2}
+  - Trigg: {fileID: 100000, guid: d1ca7b074ac66b745b2d2ab5b2636e1f, type: 2}
+  - Tr: {instanceID: 0}
+  - Crys: {fileID: 100000, guid: 09e67c418657e9843b4a11926a69cbd8, type: 2}
+  - btnTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,89 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 10.18.13.6881]
+    Renderer: Intel(R) HD Graphics 3000
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.396 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+Platform assembly: C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\System.Core.dll (this message is harmless)
+zaszyfrowany tekst to: 321QqAKYOSlRbSrTUK4VAw==
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+zaszyfrowany tekst to: AZrntNOo2l2ImyYClQcV5Q==
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+zaszyfrowany tekst to: Vi2Wo0YKTHmVjIAAaNA2gA==
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+zaszyfrowany tekst to: MuwTVXuyuRxBkIlS+ZjD7w==
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+wspolrzedne drzwi: 30 19
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+position of the door(30.0, 0.8, 18.5)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+wspolrzedne:30 oraz 19
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+wspolrzedne:11 oraz 2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+wspolrzedne:19 oraz 6
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+wspolrzedne:18 oraz 9
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+wspolrzedne:26 oraz 7
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Platform assembly: C:\Users\Macias\Desktop\aMaze Game\aMaze_Data\Managed\Boo.Lang.dll (this message is harmless)
